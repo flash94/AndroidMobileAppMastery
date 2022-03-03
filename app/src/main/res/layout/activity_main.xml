@@ -34,6 +34,7 @@
             <TextView
                 android:id="@+id/article_subheading"
                 android:layout_width="100dp"
+                android:textAllCaps="false"
                 android:layout_height="wrap_content"
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_subtitle"
